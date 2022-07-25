@@ -1,0 +1,7 @@
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.exe
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\bin\Debug\PC_to_Arduino.pdb
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.exe
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.pdb
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.MainForm.resources
+C:\Users\Lord\Desktop\aaaa\PC_to_Arduino\PC_to_Arduino\obj\Debug\PC_to_Arduino.csproj.GenerateResource.Cache
